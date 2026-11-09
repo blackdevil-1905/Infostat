@@ -221,4 +221,4 @@ Infostat is a fully licensed software offering a complete free version with all 
 Unlock your statistical potential today! Download Infostat now and take your data analysis to the next level!
 
 ---
-**Last updated:** 2026-11-09 07:25:44 UTC
+**Last updated:** 2026-11-09 17:57:53 UTC
